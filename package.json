@@ -1,0 +1,12 @@
+{
+  "name": "StudentsApi",
+  "version": "1.0.0",
+  "main": "studApi.js",
+  "repository": "https://github.com/AliaYousef/StudentsApi.git",
+  "author": "alia yousef <aliayousef33@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
