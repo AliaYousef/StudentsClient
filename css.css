@@ -1,0 +1,40 @@
+.cont {
+   
+    width: 50%;
+    margin: 150px auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  input {
+    width: 50%;
+    display: block;
+    margin: 0px auto -10px auto;
+    padding: 30px 80px 5px 0px; 
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: rgb(255, 249, 249);
+}
+input:focus {
+    outline : none;
+    border-bottom: 1px solid ;
+
+}
+.Sign {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    display: block;
+    margin: 15px auto;
+    border: 1px solid gray;
+    padding : 5px 100px;
+    background-color:rgb(66, 66, 66);
+    color: white;
+}
